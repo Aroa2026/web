@@ -1,0 +1,4 @@
+:HL["/web/_next/static/chunks/0dk9a-p1a2rbr.css","style"]
+:HL["/web/_next/static/chunks/0ax08z28m5uo~.css","style"]
+:HL["/web/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cursos","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"marketing-social","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"usik1-4oL89LfcLJ_YxmC"}
